@@ -24,7 +24,7 @@ This lab walks you through creating a CDK project in Python that will implement 
 
 Duration: Approximately 45 - 60 minutes
 
-[View lab instructions](https://github.com/phonghuule/Data-preparation-using-Amazon-Redshift-with-AWS-Glue-DataBrew)
+[View lab instructions](https://github.com/roshansthomas/python-cdk-locust)
 
 ----
 
